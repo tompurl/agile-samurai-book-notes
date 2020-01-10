@@ -71,6 +71,58 @@ Working software is the primary measurement of success
      This may be true but it's also a huge excuse for hacky managers to ignore the
      need for distributed collaboration tools.
 **** Engaged Customers
-     Business people and developers must work together daily throughout the project.
-**** Self-Organizing
+     #+BEGIN_QUOTE -r
+Agile principle:
 
+Business people and developers must work together daily throughout the project.
+     #+END_QUOTE     
+**** Self-Organizing
+     - Check your ego and, as a team, find the best way to deliver your project.
+     - How to make a team self-organize:
+       - Let them create the plan
+       - Worry less about titles and more about outcomes
+       - Team members should take initiative
+     #+BEGIN_QUOTE -r
+Agile principle:
+
+THe best architectures, requirements, and designs emerge from self-organizing teams.
+     #+END_QUOTE
+**** Accountable and empowered
+     - You should want to be help accountable for the results you produce.
+     - Only works if the team is *truly empowered*
+     #+BEGIN_QUOTE -r
+Agile princigle
+
+Build projects around motivated individuals. Give them the environment and support
+they need, and trust them to get the job done.
+     #+END_QUOTE
+     - Demoing software in front of customers help with accountability
+**** Cross-functional
+     - The team must serve the customer from end-to-end.
+     - Use generalists, not specialists, unless you need one (?)
+       - An example would be a DBA
+*** Roles we typically see
+**** The agile customer
+     - Source of truth
+     - Decides what gets built
+     - Sets the priorities from a business point of view
+     - Makes tough scope decisions
+     - Role: *Product owner* or *on-site customer*
+**** The development team
+     - All the tech folks
+***** The agile analyst
+      - Helps write user stories
+      - Does the detailed analysis
+***** The agile programmer
+      - Turns user stories into software
+      - Makes technical decisions
+***** The agile tester
+      - Helps identify acceptance criteria for user stories
+      - Confirms stories work as expected
+      - Thinks about the big testing picture
+      - Drucker Exercise
+***** The agile project manager
+      - Tracks how things are going
+      - Communicates state of project
+      - Removes roadblocks
+***** The agile UX designer
