@@ -1,0 +1,8 @@
+#+TITLE: README
+
+These are my notes from reading the book *The Agile Samurai*. Please note that the
+images are from the book and are not owned by me. I include them here as references.
+
+Here's more information about the book if you would like to purchase your own copy:
+
+- https://pragprog.com/book/jtrap/the-agile-samurai

@@ -1,0 +1,76 @@
+#+TITLE: The Agile Samurai - Book Notes
+
+* Book Notes
+** Chapter 1: Agile in a Nutshell
+*** Deliver something of value every week
+    - How you start doing things with this mindset:
+      1. Break big problems into smaller ones
+      2. Focus on really important stuff only
+      3. You make sure that what you're delivering works
+         - Daily testing becomes a way of life
+         - What "daily testing" means though is debatable :-) 
+      4. You look for feedback
+      5. You change course when necessary
+         1. "When reality messes with your plan, change the plan, not reality."
+      6. You become accountable
+         1. You take ownership of creating and completing features
+    #+BEGIN_QUOTE -r
+Agile Principle:
+
+Our highest priority is to satisfy the customer through early and continuous delivery
+of valuable software.
+    #+END_QUOTE
+*** How does agile planning work?
+    - Master Story List
+      - This is your project to-do list
+      - Contains all *user stories* (which are basically high-level features)
+      - Prioritized by your customer
+      - Estimated by your dev team
+    - *Velocity*
+      - How much you can get done per iteration
+    - If you are given impossible timelines, that's a failure of management, and a
+      terrible way to treat your customers
+*** Done means done
+    - If it can't potentially be shipped, it's not done.
+    #+BEGIN_QUOTE -r
+Agile Principle: 
+
+Working software is the primary measurement of success
+    #+END_QUOTE
+*** Three simple truths
+    - These are important:
+      1. It is impossible to gather all the requirements at the beginning of a
+         project.
+      2. Whatever requirements you do gather are guaranteed to change.
+      3. There will always be more to do than time and money will allow.
+**** There is no one way!
+     - There are multiple "flavors" of agile:
+       - Crystal
+       - Lean
+       - Kanban
+       - Scrum
+       - XP
+       - et cetera
+     - You need to customize one or more of these plans to suit your specific needs.
+**** A few words on language
+     - The author prefers XP terms to Scrum. Here's the interchangeable terms:
+       | XP           | Scrum            |
+       |--------------+------------------|
+       | iteration    | sprint           |
+       | master story | product back log |
+       | customer     | product owner    |
+** Chapter 2: Meet your agile team
+*** How are agile projects different?
+    - Roles blur on agile projects
+    - Analysis, coding, design, and testing are continuous activities
+    - Teams are accountable
+      - No QA role (for example)
+      - The dev's are in charge of QA
+*** What makes an agile team tick
+**** Colocation
+     This may be true but it's also a huge excuse for hacky managers to ignore the
+     need for distributed collaboration tools.
+**** Engaged Customers
+     Business people and developers must work together daily throughout the project.
+**** Self-Organizing
+
